@@ -1,0 +1,14 @@
+{
+  "name": "backendsiries",
+  "version": "1.0.0",
+  "description": "a rivision of backend series",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "pramod",
+  "license": "ISC"
+}
